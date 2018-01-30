@@ -1,3 +1,3 @@
 # iOS-TipCalculator-
 
-This application is used for calculating tips with carying percentage of tips.
+This application is used for calculating tips with varying percentage of tips.
